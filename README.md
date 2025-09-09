@@ -16,9 +16,9 @@ O objetivo deste projeto é realizar uma avaliação completa do sistema Canva (
 
 ## Sumário do Relatório
 
-[**Descrição do Sistema e Perfil dos Usuários**](.IHC/IP1/1-descricao-sistema.md)<br>
-[**Primeira Avaliação: Inspeção de Usabilidade**](.IHC/IP1/2-Inspecao-Usabilidade.md) <br>
-[**Segunda Avaliação: Teste de Usabilidade**](.IHC/IP1/3-Teste-Usabilidade.md)<br>
-[**Terceira Avaliação: Experiência do Usuário (UX)**](.IHC/IP1/4-Avaliacao-UX.md)<br>
-[**Quarta Avaliação: Comunicabilidade (MAC)**](.IHC/IP1/5-Avaliacao-Comunicabilidade.md)<br>
-[**Conclusões e Reflexões Individuais**](.IHC/IP1/6-Conclusoes.md)<br>
+[**Descrição do Sistema e Perfil dos Usuários**](IP1/1-descrição-sistema.md)<br>
+[**Primeira Avaliação: Inspeção de Usabilidade**](IP1/2-Inspeção-Usabilidade.md) <br>
+[**Segunda Avaliação: Teste de Usabilidade**](IP1/3-Teste-Usabilidade.md)<br>
+[**Terceira Avaliação: Experiência do Usuário (UX)**](IP1/4-Avaliação-UX.md)<br>
+[**Quarta Avaliação: Comunicabilidade (MAC)**](IP1/5-Avaliação-Comunicabilidade.md)<br>
+[**Conclusões e Reflexões Individuais**](IP1/6-Conclusões.md)<br>
