@@ -24,7 +24,7 @@ Imagem representativa:
   <br>
   <em><small>Figura 1: Logotipo oficial do sistema Canva, a plataforma de design selecionada.</small></em>
 </p>
-Logotipo oficial do sistema Canva, a plataforma de design gráfico online selecionada para esta avaliação
+
 <img width="1278" height="699" alt="tela inicial" src="https://github.com/user-attachments/assets/0049684e-43ff-4f04-86b0-d172e98ce1a8" />
 <br>
 <em><small>Figura 2: Página inicial (dashboard) da plataforma Canva após o login do utilizador.</small></em>
