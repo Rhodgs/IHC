@@ -21,10 +21,15 @@ Imagem representativa:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/61465727-c9b7-4397-b954-9e866a515267" alt="Logo do Canva" width="300" />
+  <br>
+  <em><small>Figura 1: Logotipo oficial do sistema Canva, a plataforma de design selecionada.</small></em>
 </p>
+Logotipo oficial do sistema Canva, a plataforma de design gráfico online selecionada para esta avaliação
 <img width="1278" height="699" alt="tela inicial" src="https://github.com/user-attachments/assets/0049684e-43ff-4f04-86b0-d172e98ce1a8" />
+<br>
+<em><small>Figura 2: Página inicial (dashboard) da plataforma Canva após o login do utilizador.</small></em>
 
-## PERFIL DOS USÁRIOS
+## PERFIL DOS USUÁRIOS
 Perfil dos usuários
 Quem são os usuários:
 O Canva contém vários perfis de usuários, entretanto ele é muito conhecido na
@@ -72,4 +77,4 @@ soltem a criatividade e façam trabalhos mais elaborados.
 |  T5      |  |  |  |A1:4|  |
 |  T6      |  |  |  |  |  |
 |  T7      |  |  |  |  |  |
-|  T8     |  |  |  |  |  |
+|  T8      |  |  |  |  |  |
