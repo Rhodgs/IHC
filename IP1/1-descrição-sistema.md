@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="800" height="120" alt="Inserir um título(1)" src="https://github.com/user-attachments/assets/d8c21fbb-5913-4bd8-92fe-8397836a457b" />
+
+</p>
+
 # DOMÍNIO E OBJETIVO DO SISTEMA
 **Domínio**: Design gráfico e edição digital.
 
