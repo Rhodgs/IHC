@@ -29,15 +29,16 @@ A seguir, apresentamos uma amostra da tabela de detecção de cada um dos 5 insp
 
 #### A1 - LETICIA SAMARA
 <p align="center">
-  <img width="1172" height="567" alt="tabela samara" src="https://github.com/user-attachments/assets/560f152b-6fb1-457a-af2d-ceb5e9f2f690" />
+  <img width="1058" height="522" alt="tabela samara" src="https://github.com/user-attachments/assets/31c646fa-bdb8-4b26-b2db-0866f6e6c06d" />
+
 </p>
 
 #### A2 - RHUAN LUCAS
 <p align="center">
-<img width="1335" height="627" alt="tabela rhuan" src="https://github.com/user-attachments/assets/146d349a-b7da-4130-8374-13f8a6923892" />
+  <img width="1251" height="572" alt="tabela rhuan" src="https://github.com/user-attachments/assets/4f3be94e-0cf4-4029-958d-9acd9a74b70a" />
 
-  </p>
-  
+</p>
+
 #### A3 - PAMELA ASMIN
 <p align="center">
   
@@ -45,7 +46,8 @@ A seguir, apresentamos uma amostra da tabela de detecção de cada um dos 5 insp
 
 #### A4 - LUAN HIDEKI
 <p align="center">
-  <img width="1446" height="542" alt="tabela luan" src="https://github.com/user-attachments/assets/41f3fbb5-03be-4c68-844f-995e05353995" />
+  <img width="1331" height="556" alt="tabela luan" src="https://github.com/user-attachments/assets/4d4a127c-c91f-4761-b98d-35e2eebd1e5b" />
+
 
 </p>
 
