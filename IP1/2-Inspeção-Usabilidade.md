@@ -41,12 +41,13 @@ A seguir, apresentamos uma amostra da tabela de detecção de cada um dos 5 insp
 
 #### A3 - PAMELA ASMIN
 <p align="center">
-  
+ <img width="1171" height="638" alt="tabela pamela" src="https://github.com/user-attachments/assets/08edfb0b-21a6-4afd-841f-406b5de221ef" />
+
 </p>
 
 #### A4 - LUAN HIDEKI
 <p align="center">
-  <img width="1331" height="556" alt="tabela luan" src="https://github.com/user-attachments/assets/4d4a127c-c91f-4761-b98d-35e2eebd1e5b" />
+  <img width="1312" height="552" alt="tabela luan" src="https://github.com/user-attachments/assets/1a096664-7bd8-4a63-878b-2ab6915e693b" />
 
 
 </p>
@@ -66,7 +67,7 @@ A seguir, apresentamos uma amostra da tabela de detecção de cada um dos 5 insp
   
 </p>
 
-## RELATO DOS RESULTADOS (LISTA LIMPA)
+### RELATO DOS RESULTADOS (LISTA LIMPA)
 <p align="center">
   
 </p>
