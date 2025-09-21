@@ -1,6 +1,7 @@
 <p align="center">
   <img width="800" height="120" alt="Inserir um título" src="https://github.com/user-attachments/assets/f8d12f93-09a6-4f01-b838-f9680e4a55de" />
 </p>
+
 # PRIMEIRA AVALIAÇÃO: INSPEÇÃO DE USABILIDADE
 
 Nesta seção, detalhamos o processo e os resultados da Avaliação Heurística, um método de inspeção de usabilidade baseado nas 10 Heurísticas de Nielsen. O objetivo foi identificar problemas de usabilidade na interface do sistema Canva.
