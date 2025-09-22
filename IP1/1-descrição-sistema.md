@@ -73,9 +73,9 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T4: Inspeção de Usabilidade** <br>
 **T5: Pesquisa/descrição do sistema** <br>
 
-|Tarefa/dia|09|11|14|15|16|19|
-|----------|--|--|--|--|--|--|
-|  T1      |A2:1|  |  |  |  |  |
+|Tarefa/dia|09|11|14|15|16|19|22|
+|----------|--|--|--|--|--|--|--|
+|  T1      |A2:1|  |  |  |  |  |A4:1|
 |  T2      |A2:2|  |  |  |  |A2:1|
 |  T3      |  |A1,A2,A3,A4,A5:1|  |  |  |  |
 |  T4      |  |  |A2:1|  |A4:1|  |
