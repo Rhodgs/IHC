@@ -74,6 +74,7 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T5: Pesquisa/descrição do sistema** <br>
 **T6: Elaborações da questões do teste de usabilidade** <br>
 **T7: Reunião com os participantes do teste de usabilidade** <br>
+**T8: Edição de documentos** <br>
 
 |Tarefa/dia|09|11|14|15|16|19|20|22|23|
 |----------|--|--|--|--|--|--|--|--|--|
@@ -84,4 +85,4 @@ soltem a criatividade e façam trabalhos mais elaborados.
 |  T5      |  |  |  |A1:4|  |  |  |
 |  T6      |  |  |  |  |  |  |  |A1:2|
 |  T7      |  |  |  |  |  |  |  |  |A1:1|
-|  T8      |  |  |  |  |  |  |  |  |
+|  T8      |  |  |  |  |  |  |  |  |A1,A2,A3:1 |
