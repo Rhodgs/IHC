@@ -75,13 +75,13 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T6: Elaborações da questões do teste de usabilidade** <br>
 **T7: Reunião com os participantes do teste de usabilidade** <br>
 
-|Tarefa/dia|09|11|14|15|16|19|22|23|
-|----------|--|--|--|--|--|--|--|--|
-|  T1      |A2:1|  |  |  |  |  |A4:1|
-|  T2      |A2:2|  |  |  |  |A2:1|
-|  T3      |  |A1,A2,A3,A4,A5:1|  |  |  |  |
-|  T4      |  |  |A2:1|  |A4:1|  |
-|  T5      |  |  |  |A1:4|  |  |
-|  T6      |  |  |  |  |  |  |A1:2|
-|  T7      |  |  |  |  |  |  |  |A1:1|
+|Tarefa/dia|09|11|14|15|16|19|20|22|23|
+|----------|--|--|--|--|--|--|--|--|--|
+|  T1      |A2:1|  |  |  |  |  |  |A4:1|
+|  T2      |A2:2|  |  |  |  |  |A2:1|
+|  T3      |  |A1,A2,A3,A4,A5:1|  |  |  |  |  |
+|  T4      |  |  |A2:1|  |A4;A3;3|  | A3;1 |
+|  T5      |  |  |  |A1:4|  |  |  |
+|  T6      |  |  |  |  |  |  |  |A1:2|
+|  T7      |  |  |  |  |  |  |  |  |A1:1|
 |  T8      |  |  |  |  |  |  |  |  |
