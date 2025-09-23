@@ -72,7 +72,7 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T3: Reunião de alinhamento da equipe** <br>
 **T4: Inspeção de Usabilidade** <br>
 **T5: Pesquisa/descrição do sistema** <br>
-**T6: Elaborações da quest~ões do teste de usabilidade** <br>
+**T6: Elaborações da questões do teste de usabilidade** <br>
 
 |Tarefa/dia|09|11|14|15|16|19|22|
 |----------|--|--|--|--|--|--|--|
