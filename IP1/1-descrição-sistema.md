@@ -105,4 +105,4 @@ soltem a criatividade e façam trabalhos mais elaborados.
 | T7         |    |
 | T8         |    |
 | T9         |    |
-| T10        |A1:1|    |
+| T10        |A1:1; A3:3|    |
