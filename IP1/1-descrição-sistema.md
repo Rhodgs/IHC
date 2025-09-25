@@ -77,6 +77,7 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T8: Edição de documentos** <br>
 **T9: Teste piloto** <br> 
 **T10: Teste de Usabilidade com os participantes** <br>
+*miau?*
 
 ### **Tabela de Horas Atualizada**
 
