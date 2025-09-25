@@ -38,16 +38,30 @@ Esta seção apresenta o planejamento, execução e análise dos resultados do T
 ### ROTEIRO DE TAREFAS
 Aos participantes foi solicitado que completassem as 10 tarefas a seguir
 
-1.  
-2. 
-3. 
-4.  
-5.  
-6. 
-7. 
-8.  
-9.  
-10. 
+1. Crie uma apresentação em branco. Adicione uma imagem ao slide e aplique o 
+efeito de animação "Surgir" 
+2. Altere a cor de fundo do slide para um tom de cinza claro e, em seguida, 
+renomeie o título da apresentação para 'Trabalho Prático
+3. Insira uma caixa de texto e escreva "Avaliação de Sistemas". Em seguida, formate 
+o texto para negrito e tamanho 16
+4. Adicione três formas ao slide: um círculo, um quadrado e um triângulo. Altere a 
+posição e organize as formas para que o círculo fique no fundo, o quadrado no 
+meio e o triângulo na frente
+5. Insira uma moldura em formato de hexágono no slide (um quadro especial para 
+encaixar uma foto dentro). Depois, adicione uma imagem qualquer dentro da 
+moldura 
+6. Gere um link para compartilhar esta apresentação, garantindo que a permissão 
+seja de "Pode editar" 
+7. Crie um novo Documento (formato DOC). Adicione uma imagem qualquer e 
+aplique o efeito Sombras > Plano de Fundo
+8. Escreva a palavra 'Canva' no documento e transforme-a em um hyperlink (um 
+texto clicável que leva a um site) para o endereço https://www.canva.com   
+9.  Adicione uma segunda página ao documento. Nesta nova página, insira a 
+imagem de um gato de corpo inteiro e recorte-a para mostrar apenas o rosto do 
+gato  
+10. Na segunda página, procure por "gato" na aba "Elementos", filtre os 
+resultados para mostrar apenas os "Animados" e adicione um GIF à página. Para 
+finalizar, baixe o documento inteiro no formato "PDF Padrão"
 
 ## EXECUÇÃO DOS TESTES
 
