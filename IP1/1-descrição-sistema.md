@@ -66,25 +66,29 @@ soltem a criatividade e façam trabalhos mais elaborados.
 - Compartilhar projetos com colegas e clientes.
 - Baixar arquivos em diferentes formatos para impressão ou publicação online.
 
-# LISTA DE TAREFAS
+# LISTA DE TAREFAS 
 **T1: Criação das tabelas no Notion** <br>
 **T2: Configuração do repositório no GitHub (estrutura de pastas e README)** <br>
 **T3: Reunião de alinhamento da equipe** <br>
 **T4: Inspeção de Usabilidade** <br>
 **T5: Pesquisa/descrição do sistema** <br>
 **T6: Elaborações da questões do teste de usabilidade** <br>
-**T7: Reunião com os participantes do teste de usabilidade** <br>
+**T7: Reunião com os participantes do teste de usabilidade** <br> 
 **T8: Edição de documentos** <br>
-**T9: Teste de Usabilidade com os participantes**
+**T9: Teste piloto** <br> 
+**T10: Teste de Usabilidade com os participantes** <br>
 
-|Tarefa/dia|09|11|14|15|16|19|20|22|23|24|
-|----------|--|--|--|--|--|--|--|--|--|--|
-|  T1      |A2:1|  |  |  |  |  |  |A4:1|
-|  T2      |A2:2|  |  |  |  |  |A2:1|
-|  T3      |  |A1,A2,A3,A4,A5:1|  |  |  |  |  |
-|  T4      |  |  |A2:1|  |A4;A3;3|  | A3;1 |
-|  T5      |  |  |  |A1:4|  |  |  |
-|  T6      |  |  |  |  |  |  |  |A1:2|
-|  T7      |  |  |  |  |  |  |  |  |A1:1|
-|  T8      |  |  |  |  |  |  |  |  |A1,A2,A3:1 |
-|  T9      |  |  |  |  |  |  |  |  |  |A1,A2,A3,A4:3|
+### **Tabela de Horas Atualizada**
+
+| Tarefa/dia | 09              | 11                   | 14   | 15   | 16      | 19 | 20   | 22   | 23            | 24                  |
+| ---------- | --------------- | -------------------- | ---- | ---- | ------- | -- | ---- | ---- | ------------- | ------------------- |
+| T1         | A2:1            |                      |      |      |         |    |      | A4:1 |               |                     |
+| T2         | A2:2            |                      |      |      |         |    | A2:1 |      |               |                     |
+| T3         |                 | A1,A2,A3,A4,A5:1     |      |      |         |    |      |      |               |                     |
+| T4         |                 |                      | A2:1 |      | A4;A3;3 |    | A3;1 |      |               |                     |
+| T5         |                 |                      |      | A1:4 |         |    |      |      |               |                     |
+| T6         |                 |                      |      |      |         |    |      | A1:2 |               |                     |
+| T7         |                 |                      |      |      |         |    |      |      | A1:1          |                     |
+| T8         |                 |                      |      |      |         |    |      |      | A1,A2,A3:1    |                     |
+| T9         |                 |                      |      |      |         |    |      |      | A3:3          |                     |
+| T10        |                 |                      |      |      |         |    |      |      |               | A1,A2,A3,A4:3,A3:3  |
