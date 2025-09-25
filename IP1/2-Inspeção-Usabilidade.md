@@ -55,22 +55,26 @@ A seguir, apresentamos uma amostra da tabela de detecção de cada um dos 5 insp
 
 #### A5 - VICTOR MELO
 <p align="center">
-  
+  <img width="1253" height="757" alt="tabela victor" src="https://github.com/user-attachments/assets/7ed46c0e-ca83-4a80-918f-d204db01a71a" />
+
 </p>
 
 ### COLEÇÃO (CONSOLIDADA)
 <p align="center">
-  
+  <img width="995" height="820" alt="tabela coleção" src="https://github.com/user-attachments/assets/bca8cafb-762e-4fc0-bdb9-65bf3df9fc51" />
+
 </p>
 
 ### DISCRIMINAÇÃO (CLASSIFICAÇÃO)
 <p align="center">
-  
+  <img width="913" height="732" alt="tabela discriminação" src="https://github.com/user-attachments/assets/b4776657-6356-4154-b4e8-5d5e028f2f90" />
+
 </p>
 
 ### RELATO DOS RESULTADOS (LISTA LIMPA)
 <p align="center">
   
+  <img width="888" height="876" alt="tabela limpa" src="https://github.com/user-attachments/assets/f1110601-bf6c-4d93-ae79-b7bd0f4d6700" />
 </p>
 
 ## LINK PARA O WORKSPACE COMPLETO
