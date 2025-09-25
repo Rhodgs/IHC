@@ -77,11 +77,11 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T8: Edição de documentos** <br>
 **T9: Teste piloto** <br> 
 **T10: Teste de Usabilidade com os participantes** <br>
-*miau?*
+
 
 ### **Tabela de Horas Atualizada**
 
-| Tarefa/dia | 09              | 11                   | 14   | 15   | 16      | 19 | 20   | 22   | 23            | 24                  |
+| Tarefa/dia | 09              | 11                   | 14   | 15   | 16      | 19 | 20   | 22   | 23            | 24                  | 
 | ---------- | --------------- | -------------------- | ---- | ---- | ------- | -- | ---- | ---- | ------------- | ------------------- |
 | T1         | A2:1            |                      |      |      |         |    |      | A4:1 |               |                     |
 | T2         | A2:2            |                      |      |      |         |    | A2:1 |      |               |                     |
@@ -93,3 +93,16 @@ soltem a criatividade e façam trabalhos mais elaborados.
 | T8         |                 |                      |      |      |         |    |      |      | A1,A2,A3:1    |                     |
 | T9         |                 |                      |      |      |         |    |      |      | A3:3          |                     |
 | T10        |                 |                      |      |      |         |    |      |      |               | A1,A2,A3,A4:3,A3:3  |
+
+| Tarefa/dia | 25 |
+| ---------- | -- |
+| T1         |    |
+| T2         |    |
+| T3         |    |
+| T4         |    |
+| T5         |    |
+| T6         |    |
+| T7         |    |
+| T8         |    |
+| T9         |    |
+| T10        |A1:1|    |
