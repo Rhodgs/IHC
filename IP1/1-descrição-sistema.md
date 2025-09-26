@@ -77,6 +77,7 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T8: Edição de documentos** <br>
 **T9: Teste piloto** <br> 
 **T10: Teste de Usabilidade com os participantes** <br>
+**T11: Teste de Comunicabilidade com os participantes** <br>
 
 
 ### **Tabela de Horas Atualizada**
@@ -92,17 +93,19 @@ soltem a criatividade e façam trabalhos mais elaborados.
 | T7         |                 |                      |      |      |         |    |      |      | A1:1          |                     |
 | T8         |                 |                      |      |      |         |    |      |      | A1,A2,A3:1    |                     |
 | T9         |                 |                      |      |      |         |    |      |      | A3:3          |                     |
-| T10        |                 |                      |      |      |         |    |      |      |               | A1,A2,A3,A4:3,A3:3  |
+| T10        |                 |                      |      |      |         |    |      |      |               | A1,A2,A3,A4:3       |
+| T11        |                 |                      |      |      |         |    |      |      |               |                     |
 
-| Tarefa/dia | 25 |
-| ---------- | -- |
-| T1         |    |
-| T2         |    |
-| T3         |    |
-| T4         |    |
-| T5         |    |
-| T6         |    |
-| T7         |    |
-| T8         |    |
-| T9         |    |
-| T10        |A1:1; A3:3|    |
+| Tarefa/dia | 25              |26        |
+| ---------- | --------------- |----------|
+| T1         |                 |          |
+| T2         |                 |          |
+| T3         |A1,A2,A3,A4,A5: 1|          |
+| T4         |                 |          |
+| T5         |                 |          |
+| T6         |                 |          |
+| T7         |                 |          |
+| T8         |A1:1;            |          |
+| T9         |                 |          |
+| T10        | A3:3            |          |
+| T11        |                 |          |
