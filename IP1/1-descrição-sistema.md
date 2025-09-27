@@ -107,5 +107,5 @@ soltem a criatividade e façam trabalhos mais elaborados.
 | T7         |                 |          |
 | T8         |A1:1;            |          |
 | T9         |                 |          |
-| T10        | A3:3            |          |
+| T10        | A3:3            |  A1:1    |
 | T11        |                 |   A2:2   |
