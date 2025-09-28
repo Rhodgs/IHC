@@ -4,11 +4,11 @@
 
 # PRIMEIRA AVALIAÇÃO: INSPEÇÃO DE USABILIDADE
 
-Nesta seção, detalhamos o processo e os resultados da Avaliação Heurística, um método de inspeção de usabilidade baseado nas 10 Heurísticas de Nielsen. O objetivo foi identificar problemas de usabilidade na interface do sistema Canva.
+Nesta seção, detalhamos o processo e os resultados da Avaliação Heurística, um método de inspeção de usabilidade baseado nas 10 Heurísticas de Nielsen. O objetivo foi identificar problemas de usabilidade na interface do sistema Canva
 
 ## METODOLOGIA
 
-A avaliação foi conduzida seguindo o processo de 4 etapas definido nas instruções do trabalho. A equipe utilizou um workspace colaborativo no Notion para organizar e consolidar os dados.
+A avaliação foi conduzida seguindo o processo de 4 etapas definido nas instruções do trabalho. utilizamos um workspace colaborativo no Notion para organizar e consolidar os dados
 
 ## EQUIPE DE INSPEÇÃO
 
@@ -20,13 +20,11 @@ A avaliação foi conduzida seguindo o processo de 4 etapas definido nas instru�
 | **A4** | Luan Hideki     |
 | **A5** | Victor Melo     |
 
-## EVIDÊNCIAS DO PROCESSO NO NOTION
-
-O processo de análise foi documentado em três fases distintas no Notion: Detecção Individual, Coleção Consolidada e Discriminação. As fotos abaixo servem como evidência do trabalho realizado pela equipe.
+---
 
 ### DETECÇÃO INDIVIDUAL
 
-A seguir, apresentamos uma amostra da tabela de detecção de cada um dos 5 inspetores, evidenciando o trabalho individual de análise.
+O processo de análise foi documentado em quatro fases distintas no Notion: Detecção Individual, Coleção Consolidada, Discriminação e tabela limpa. As fotos abaixo servem como evidência do trabalho realizado pela equipe, apresentamos uma amostra da tabela de detecção de cada um dos 5 inspetores, evidenciando o trabalho individual de análise.
 
 #### A1 - LETICIA SAMARA
 <p align="center">
@@ -60,20 +58,25 @@ A seguir, apresentamos uma amostra da tabela de detecção de cada um dos 5 insp
 </p>
 
 ### COLEÇÃO (CONSOLIDADA)
+Após a detecção individual, todos os problemas registrados foram unificados em uma única tabela. Nesta fase, os achados duplicados foram mesclados para criar uma lista consolidada de problemas
+
 <p align="center">
   <img width="995" height="820" alt="tabela coleção" src="https://github.com/user-attachments/assets/bca8cafb-762e-4fc0-bdb9-65bf3df9fc51" />
 
 </p>
 
 ### DISCRIMINAÇÃO (CLASSIFICAÇÃO)
+Após isso, foi classificados em FALSO POSITIVO e DEFEITO
+
 <p align="center">
   <img width="913" height="732" alt="tabela discriminação" src="https://github.com/user-attachments/assets/b4776657-6356-4154-b4e8-5d5e028f2f90" />
 
 </p>
 
 ### RELATO DOS RESULTADOS (LISTA LIMPA)
+Lista limpa com recomendações de melhorias
+
 <p align="center">
-  
   <img width="888" height="876" alt="tabela limpa" src="https://github.com/user-attachments/assets/f1110601-bf6c-4d93-ae79-b7bd0f4d6700" />
 </p>
 
