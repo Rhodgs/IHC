@@ -83,4 +83,4 @@ Para consolidar os achados, a frequência de cada etiqueta foi tabulada para amb
 
 ## LINK PARA O WORKSPACE COMPLETO
 
-**[Avaliação de Comunicabilidade](https://www.notion.so/Todos-os-participantes-27cf30e12a8680b0a799ddca08f91019)**
+**[Avaliação de Comunicabilidade](https://www.notion.so/WORKSPACE-DA-EQUIPE-269f30e12a868063ba05d9f6049f7f80)**
