@@ -78,6 +78,7 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T9: Teste piloto** <br> 
 **T10: Teste de Usabilidade com os participantes** <br>
 **T11: Teste de Comunicabilidade com os participantes** <br>
+**T12: Edição dos videos de comunicabilidade** <br>
 
 
 ### **Tabela de Horas Atualizada**
@@ -95,6 +96,7 @@ soltem a criatividade e façam trabalhos mais elaborados.
 | T9         |                 |                      |      |      |         |    |      |      | A3:3          |                     |
 | T10        |                 |                      |      |      |         |    |      |      |               | A1,A2,A3,A4:3       |
 | T11        |                 |                      |      |      |         |    |      |      |               |                     |
+| T12        |                 |                      |      |      |         |    |      |      |               |                     |
 
 | Tarefa/dia | 25              |26        |27
 | ---------- | --------------- |----------|----------|
@@ -105,7 +107,8 @@ soltem a criatividade e façam trabalhos mais elaborados.
 | T5         |                 |          |          |
 | T6         |                 |          |          |
 | T7         |                 |          |          |
-| T8         |A1:1;A3:2        |          |  A3:4    |
+| T8         |A1:1;A3:2        |          | A3:4,A4:3|
 | T9         |                 |          |          |
 | T10        | A3:3            |  A1:1    |  A3:1    |
 | T11        |                 |   A2:2   |          |
+| T12        |                 |          | A2:10    |
