@@ -23,7 +23,7 @@ Esta seção apresenta o planejamento, execução e análise dos resultados do T
 * Pontuação no System Usability Scale (SUS) ao final da sessão.
 
 ### FORMATO DA SESSÃO
-* **TIPO:** 
+* **TIPO:** Totalmente presencial
 * **DURAÇÃO ESTIMADA:** 25-35 minutos por participante.
 
 ### PERFIL DOS PARTICIPANTES
@@ -32,7 +32,7 @@ Esta seção apresenta o planejamento, execução e análise dos resultados do T
 
 ### EQUIPAMENTOS
 * Computador com acesso à internet.
-* Ferramenta para gravação de tela e áudio (ex: OBS Studio, Loom).
+* Ferramenta para gravação de tela e áudio: OBS Studio
 * Cronômetro para medição do tempo das tarefas.
 
 ### ROTEIRO DE TAREFAS
@@ -283,27 +283,27 @@ A coleta detalhada de cada participante foi registada na tabela abaixo
 ### CONSOLIDAÇÃO POR TAREFA
 A tabela abaixo apresenta o desempenho médio em cada uma das 10 tarefas, considerando todos os participantes
 
-
-## ANÁLISE QUALITATIVA
-(taxas de sucesso, tempos, erros, ajuda.)
-
-
-### SYSTEM USABILITY SCALE (SUS)
-(calcular escore (0–100) e interpretar (≥68 ≈ “acima da média”)
-
-
 ### ANÁLISE DAS PERGUNTAS ABERTAS
 As respostas dos participantes às três perguntas abertas obrigatórias foram analisadas e mapeadas aos fatores de usabilidade, conforme a tabela abaixo.
+PERGUNTAS:
 
-| ID PART. | TRECHO DA RESPOSTA | FATOR DE USABILIDADE |
+1. Achou intuitivo? pr que
+2. Usaria no dia a dia? por que
+3.Achou interessante? por que
+
+| ID Part. | Trecho da Resposta | Fator de Usabilidade |
 | :--- | :--- | :--- |
-| **P0** | "entregar dia 29" | Eficiência de uso |
-| **P0** | "tem prova" | Aprendizagem / Eficácia |
-| **P0** | "teste, sus analises estarao aq" | inSatisfação |
-| ... | ... | ... |
+| P01 | "os botões são escondidos" | Aprendizado (Learnability) |
+| P02 | "Achei prático" | Eficiência de uso |
+| P03 | "é 'resumido' demais" | Utilidade Percebida (Funcionalidades) |
+| P04 | "me senti um pouco perdida... tive que caçar funções" | Eficiência de uso |
+| P05 | "As coisas estavam onde eu esperava que estivessem" | Aprendizado (Learnability) |
+| P06 | "O conceito é fácil, mas na prática, me enrolei em uns detalhes" | Satisfação (Frustração) |
+| P07 | "Demorei um pouco para me acostumar" | Curva de Aprendizagem |
+| P08 | "as ferramentas que eu já uso... tem outras coisinhas a mais" | Análise Competitiva |
 
 ## LINK PARA A BASE DE DADOS COMPLETA
 
 A base de dados completa, com todos os registos e anotações, pode ser acedida no nosso workspace no Notion:
 
-* **[Teste de Usabilidade do Canva (Notion)](https://www.notion.so/Inspe-o-de-Usabilidade-269f30e12a868063ba05d9f6049f7f80)**
+* **[Teste de Usabilidade do Canva (Notion)](https://www.notion.so/WORKSPACE-DA-EQUIPE-269f30e12a868063ba05d9f6049f7f80)**
