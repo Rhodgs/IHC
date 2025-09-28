@@ -289,7 +289,7 @@ PERGUNTAS:
 
 1. Achou intuitivo? pr que
 2. Usaria no dia a dia? por que
-3.Achou interessante? por que
+3. Achou interessante? por que
 
 | ID Part. | Trecho da Resposta | Fator de Usabilidade |
 | :--- | :--- | :--- |
