@@ -283,6 +283,19 @@ A coleta detalhada de cada participante foi registada na tabela abaixo
 ### CONSOLIDAÇÃO POR TAREFA
 A tabela abaixo apresenta o desempenho médio em cada uma das 10 tarefas, considerando todos os participantes
 
+| Tarefa | # Sucesso (%) | # Sucesso com ajuda! (%) | # Falhas X(%) | # Tempos Médios (s) | # Erros médios | # Ajuda média |
+|:---|---:|---:|---:|---:|---:|---:|
+| T1 | 50% | 25% | 25% | 287 | 1.75 | 1 |
+| T2 | 75% | 12.5% | 12.5% | 146 | 0.6 | 0.3 |
+| T3 | 87.5% | 0% | 12.5% | 60 | 0.2 | 0 |
+| T4 | 87.5% | 0% | 12.5% | 139 | 0.5 | 0.25 |
+| T5 | 87.5% | 0% | 12.5% | 108 | 0.5 | 0 |
+| T6 | 62.5% | 25% | 12.5% | 118 | 0.62 | 0.12 |
+| T7 | 75% | 12.5% | 12.5% | 231 | 0.75 | 0.3 |
+| T8 | 50% | 25% | 25% | 230 | 0.8 | 0.3 |
+| T9 | 62.5% | 25% | 12.5% | 170 | 0.7 | 0.25 |
+| T10 | 75% | 0% | 25% | 229 | 1 | 0 |
+
 ### ANÁLISE DAS PERGUNTAS ABERTAS
 As respostas dos participantes às três perguntas abertas obrigatórias foram analisadas e mapeadas aos fatores de usabilidade, conforme a tabela abaixo.
 PERGUNTAS:
