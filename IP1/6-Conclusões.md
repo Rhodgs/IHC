@@ -17,12 +17,35 @@ Conforme solicitado nas instruções do trabalho, cada membro da equipe produziu
 ### Reflexão de Letícia Samara Paz da Silva
 
 * **Desafios Enfrentados:**
-    
+    * Na minha opinião, um dos maiores desafios durante esse trabalho foi a 
+dependência de pessoas de fora do grupo. Muitas vezes, as pessoas que a gente 
+chamava para fazer os testes acabavam atrasando, remarcando de última hora ou 
+nem davam resposta se vinham ou não. Isso acabou sendo bem desgastante e 
+desmotivador pra gente. Além disso, outro ponto que também foi complicado foi a 
+comunicação dentro do grupo. Trabalho em grupo já não é algo fácil, e nesse caso 
+ficou ainda mais difícil, porque o trabalho tinha muitas partes, com vários tópicos 
+pequenos e detalhados. Então, alinhar tudo pra que cada um fizesse a sua parte 
+acabou sendo um desafio a mais.   
 
 * **Lições Aprendidas:**
-    
+    * Falta de comunicabilidade: Uma das principais lições que eu aprendi nesse 
+trabalho foi perceber como a falta de explicação dentro do sistema pode 
+atrapalhar muito o uso, principalmente para quem é iniciante. No caso do Canva, 
+vimos que várias ferramentas não têm uma descrição clara de para que servem, e 
+isso acaba confundindo os usuários que não têm experiência. Essa falta de 
+comunicabilidade mostra como é importante deixar o sistema mais intuitivo e fácil 
+de entender, porque quando o usuário não consegue compreender sozinho, a 
+usabilidade fica bem prejudicada. 
 
 * **Contribuição para Habilidades em IHC:**
+  * O que eu mais aprendi em IHC e que ajudou no trabalho foi usar as heurísticas 
+para identificar onde o sistema tinha problemas de usabilidade e entender como 
+isso atrapalhava o usuário. Também percebi que, quando o sistema não se 
+comunica bem e não explica direito para que serve cada ferramenta, fica muito 
+difícil principalmente para quem é iniciante. Além disso, a gente usou o Notion e o 
+GitHub para coordenar o trabalho, o que ajudou bastante a deixar tudo mais 
+organizado e alinhado entre o grupo. A matéria ajudou a olhar para o sistema de 
+forma mais crítica e pensar em como deixá-lo mais fácil e claro para todos os usuários.
    
 ---
 
