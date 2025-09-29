@@ -97,6 +97,7 @@ forma mais crítica e pensar em como deixá-lo mais fácil e claro para todos os
 
 * **Lições Aprendidas:**
    
+* Dentre as lições aprendidas descobri o quão e importante é realizar os testes de usabilidade pois revelam muitos problemas ocultos, além da importância de entender o contexto, as necessidades e limitações dos usuários, onde através dos testes realizado por nos, revelaram situações que não prevíamos, álem de destacar que, aprendi que a comunição é algo fundamental para a elaboração das etapas, em geral esse trabalho foi tudo muito novo para mim, destaco quer tive muitas lições aprendidas.
 
 * **Contribuição para Habilidades em IHC:**
 
