@@ -78,6 +78,7 @@ soltem a criatividade e façam trabalhos mais elaborados.
 **T10: Teste de Usabilidade com os participantes** <br>
 **T11: Teste de Comunicabilidade com os participantes** <br>
 **T12: Edição dos videos de comunicabilidade** <br>
+**T13: Edição do slide da apresentação** <br>
 
 
 ### **Tabela de Horas Atualizada**
@@ -96,8 +97,9 @@ soltem a criatividade e façam trabalhos mais elaborados.
 | T10        |                 |                      |      |      |         |    |      |      |               | A1,A2,A3,A4:3       |
 | T11        |                 |                      |      |      |         |    |      |      |               |                     |
 | T12        |                 |                      |      |      |         |    |      |      |               |                     |
+| T13        |                 |                      |      |      |         |    |      |      |               |                     |
 
-| Tarefa/dia | 25              |26        |27        |28     |29    |
+| Tarefa/dia | 25              |26        |27        |28      |29    |
 | ---------- | --------------- |----------|----------|--------|------ |
 | T1         |                 |          |          |        |       |
 | T2         |                 |          |          |  A2:1  |       |
@@ -111,3 +113,4 @@ soltem a criatividade e façam trabalhos mais elaborados.
 | T10        | A3:3            |  A1:1    |  A3:1    |        |       |
 | T11        |                 |   A2:2   |          |        |       |
 | T12        |                 |          | A2:10    |        |       |
+| T13        |                 |          |          |        |A1:3   |
