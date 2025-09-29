@@ -107,9 +107,11 @@ forma mais crítica e pensar em como deixá-lo mais fácil e claro para todos os
 ### Reflexão de Victor Melo Vieira
 
 * **Desafios Enfrentados:**
-    
-
+    * Ao longo do trabalho, percebi que um dos pontos mais complicados foi lidar com a grande quantidade de etapas exigidas. Cada fase tinha métodos, tabelas e análises específicas, o que tornou o processo bastante detalhado e, às vezes, cansativo. Outro desafio foi organizar o grupo para que cada integrante conseguisse entregar sua parte no prazo, já que surgiam imprevistos e dúvidas em relação às instruções. Além disso, tivemos que trabalhar bastante para manter a consistência dos resultados, porque cada pessoa enxergava o sistema de forma diferente e isso precisava ser unificado em uma análise final.
+      
 * **Lições Aprendidas:**
+  * Durante o desenvolvimento do TP1, percebi que a usabilidade de um sistema vai muito além de apenas “funcionar”. Ela depende principalmente de como o sistema consegue se comunicar com o usuário. Nos testes, ficou claro que a falta de clareza em botões, instruções e fluxos de navegação confundia bastante, principalmente os participantes com menos experiência. Esse ponto me mostrou como é essencial pensar sempre no usuário iniciante. Também ficou evidente como os métodos aplicados — heurísticas, SUS, UEQ e MAC — se complementam e ajudam a enxergar problemas que dificilmente seriam identificados de forma isolada.
  
 * **Contribuição para Habilidades em IHC:**
+  * No fim das contas, considero que esse trabalho foi muito importante para o meu aprendizado em IHC. Consegui aplicar na prática conceitos que antes estavam apenas na teoria, como avaliar problemas de usabilidade, interpretar métricas e analisar questionários de experiência. Também pude exercitar a organização em equipe, utilizando ferramentas como GitHub e Notion para coordenar as atividades do grupo. De forma geral, o TP1 ampliou minha visão sobre sistemas interativos e me ajudou a desenvolver um olhar mais crítico e atento para propor soluções que deixem a interação mais clara, eficiente e acessível para diferentes tipos de usuários.
    
