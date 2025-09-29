@@ -42,9 +42,8 @@ comunidade acadêmica e empresarial, de acordo com o site Ddemandsage.com,
 uma grande porcentagem dos usuários do Canva são:
 * Estudantes (trabalhos acadêmicos, apresentações, projetos escolares).
 * Profissionais de marketing
-* empreendedores, freelancers de design.
-
-Usuários comuns que desejam criar posts para redes sociais, convites e artes
+* Empreendedores, freelancers de design.
+* Usuários comuns que desejam criar posts para redes sociais, convites e artes
 pessoais.
 
 ## CONHECIMENTOS PRÉVIOS E EXPERIÊNCIAS:
