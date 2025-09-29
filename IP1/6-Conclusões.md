@@ -73,13 +73,20 @@ forma mais crítica e pensar em como deixá-lo mais fácil e claro para todos os
 ### Reflexão de Pâmela Asmin de Almeida da Silva
 
 * **Desafios Enfrentados:**
+
+* Inicialmente este trabalho parecia ser algo não tão complicado, algo mais simples, mas se mostrou ser um verdadeiro desafio, pois o andamento do trabalho não dependia só de mim ou de meus colegas de equipe, mas também de terceiros que por muitas vezes não eram fiéis com os compromissos marcados conosco e/ou não levava tão a sério nosso trabalho e esforço, muitas vezes nos forçando a pedir repetidas vezes mais de sua colaboração. Assim como a comunicabilidade entre nós membros da equipe que por vezes nos viamos falando sozinhos sem retorno dos demais companheiros de equipe; e a pontualidade de cada um de nós principalmente na fase de 1 que era a detecção de usabilidade, em que cada um de nós havia seu próprio ritmo e dificuldades com o sistema escolhido. As novas ferramentas utilizadas durante todo o processo também eram algo muito novo que por vezes me via em dificuldade de manusea-las até realmente entender como usar cada uma delas. Foi um trabalho exaustante e estressante.
    
 * **Lições Aprendidas:**
    
+* Neste trabalho pratico optamos por utilizar o sistema web canva, que para mim era algo novo, ja que eu nunca havia usado esse sistema antes, usando ele percebi que tanto a comunicação quanto a usabilidade importam para o bom uso do sistema pelo usuario, ja que por vezes varias funçoes consideradas importantes não estavam expostas ao usuario, o que dificultou bastante a usabilidade do sistema, sofrendo isso na pele percebi que não adianta ter um sistema perfeito, com codigos tudo certinho se a usabilidade e comunicação são quebradas, pq isso afasta o usuario e faz com que ele vá atras de outras ferramentas que tenham a mesma função e que ele consiga usar sem precisar passar por enigmas antes e/ou que tambem atendam suas necessidades em relação a acessibilidade
+
+* Aprendi que devo ser mais fiel aos prazos, ja que na primeira fase completei a detecção com atrasos devido a minha falta de conhecimento com o sistema escolhido para realizar esta atividade; com isso devo me esforçar mais para conseguir compreender coisas novas; me apoiar menos nos meus colegas de equipe e ser mais independente, e não esperar até que me mandem fazer algo, pois assim parece que eu não quero ajudar. devo ser mais ativa e questionar mais.
+
+* Alem de tudo isso este trabalho contribuiu ainda mais para o meu entendimento em relação a como lidar com terceiros, pois percebi que devo ser mais paciente e que cada um tem o seu tempo e isso eu devo respeitar.
 
 * **Contribuição para Habilidades em IHC:**
 
-
+* Este trabalho me ajudou a entender melhor varios assuntos ministrados em aula que no começo parecia ser algo apenas teorico, mas que quando colocado em pratica se mostraram realmente importantes para um sistema ser atraente para os usuarios. Como os testes de usabilidade são feitos; como questionarios como o SUS e o UEQ nos ajudam a analisar os resultados gerais da opinião do usúario em relação ao sistema e como isso pode impactar nas futuras melhorias do sistema. E tambem como utilizar avaliação heuristica pode ajudar a entender e classificar mellhor os tipos de cada problema detectados durante a inspeção de usabilidade. O teste de comunicabilidade me fez perceber que um simples "Cadê" ou um "era pra estar squi" significam muito mais do uma simples palavra ou frase, significam que o sistema não esta passando sua mensagem com clareza e que uma interface bonita não sifnifica boa comunicabilidade e usabilidade. E que eu como futura engenheira de software devo prezar por uma boa comunicabilidade e usabilidade nos projetos que eu desenvolver futuramente, facilitando o uso do sistema e não colocando diversas barreiras para o usuario.
 ---
 
 ### Reflexão de Luan Hideki Oda Nogueira
