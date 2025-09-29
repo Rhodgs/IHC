@@ -28,7 +28,7 @@ pequenos e detalhados. Então, alinhar tudo pra que cada um fizesse a sua parte
 acabou sendo um desafio a mais.   
 
 * **Lições Aprendidas:**
-    * Falta de comunicabilidade: Uma das principais lições que eu aprendi nesse 
+   * Falta de comunicabilidade: Uma das principais lições que eu aprendi nesse 
 trabalho foi perceber como a falta de explicação dentro do sistema pode 
 atrapalhar muito o uso, principalmente para quem é iniciante. No caso do Canva, 
 vimos que várias ferramentas não têm uma descrição clara de para que servem, e 
