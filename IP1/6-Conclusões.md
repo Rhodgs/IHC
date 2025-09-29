@@ -92,13 +92,15 @@ forma mais crítica e pensar em como deixá-lo mais fácil e claro para todos os
 ### Reflexão de Luan Hideki Oda Nogueira
 
 * **Desafios Enfrentados:**
-   
+
+* Um dos desafios que encontrei foi na parte da descoberta e classificação dos problemas práticos nas análises do Canva, no começo houve dificuldade em encontrá-las e classificá-las a partir das heurísticas violadas, além disso senti uma dificuldade na parte de comunicação no começo, por minha parte, pois não conhecia os integrantes do meu grupo, fazendo com que algumas das vezes eu não colaborasse em algumas partes do trabalho.
 
 * **Lições Aprendidas:**
    
 
 * **Contribuição para Habilidades em IHC:**
-   
+
+* Após realizar esse trabalho pude sentir uma contribuição em algumas qualidades, dentre elas, em minha análise e identificação de problemas, com base em heurísticas de usabilidade, pude identificar problemas de forma mais crítica, e categorizado-as, além disso melhorei em minha prática de coleta e análise de dados, através dos questionários que aplicamos aos usuários para medir o tempo que levaram para completar as tarefas que pedimos, e para medir o grau de satisfação desses usuários através do UEQ.
 
 ---
 
