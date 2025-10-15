@@ -15,6 +15,8 @@ O objetivo deste projeto é realizar uma avaliação completa do sistema Canva (
 
 ## EX integrante
 
+|Matrícula|Nome|ID|
+|-|-|-|
 |22552070|Victor Melo Vieira|A5|
 
 ## Sumário do Relatório
