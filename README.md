@@ -12,13 +12,16 @@ O objetivo deste projeto é realizar uma avaliação completa do sistema Canva (
 |22552289|Rhuan Lucas Cunha Rodrigues|A2|
 |22551474|Pâmela Asmin de Almeida da Silva|A3|
 |22554524|Luan Hideki Oda Nogueira|A4|
+
+## EX integrante
+
 |22552070|Victor Melo Vieira|A5|
 
 ## Sumário do Relatório
 
-[**Descrição do Sistema e Perfil dos Usuários**](IP1/1-descrição-sistema.md)<br>
-[**Primeira Avaliação: Inspeção de Usabilidade**](IP1/2-Inspeção-Usabilidade.md) <br>
-[**Segunda Avaliação: Teste de Usabilidade**](IP1/3-Teste-Usabilidade.md)<br>
-[**Terceira Avaliação: Experiência do Usuário (UX)**](IP1/4-Avaliação-UX.md)<br>
-[**Quarta Avaliação: Comunicabilidade (MAC)**](IP1/5-Avaliação-Comunicabilidade.md)<br>
-[**Conclusões e Reflexões Individuais**](IP1/6-Conclusões.md)<br>
+[**Descrição do Sistema e Perfil dos Usuários**](TP1-IHC/1-descrição-sistema.md)<br>
+[**Primeira Avaliação: Inspeção de Usabilidade**](TP1-IHC/2-Inspeção-Usabilidade.md) <br>
+[**Segunda Avaliação: Teste de Usabilidade**](TP1-IHC/3-Teste-Usabilidade.md)<br>
+[**Terceira Avaliação: Experiência do Usuário (UX)**](TP1-IHC/4-Avaliação-UX.md)<br>
+[**Quarta Avaliação: Comunicabilidade (MAC)**](TP1-IHC/5-Avaliação-Comunicabilidade.md)<br>
+[**Conclusões e Reflexões Individuais**](TP1-IHC/6-Conclusões.md)<br>
