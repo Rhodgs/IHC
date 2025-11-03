@@ -82,8 +82,8 @@ Os experimentos foram realizados no software Weka, utilizando diferentes algorit
 
 Cada modelo foi treinado e testado sobre a base sintética, e os resultados foram avaliados com base na acurácia e nas matrizes de confusão. 
 Análises gráficas foram feitas para explorar a relação entre os atributos: 
-- Exercícios entregues × Vídeos vistos; 
-- Tempo médio por sessão × Vídeos vistos; 
+- Vídeos vistos × Exercícios entregues ; 
+- Vídeos vistos × Tempo médio por sessão; 
 - Posts iniciados × Respostas em posts.
 
 Essas visualizações mostraram que há uma relação direta entre o engajamento e o tempo de estudo, número de vídeos assistidos e exercícios entregues.
@@ -93,13 +93,13 @@ Essas visualizações mostraram que há uma relação direta entre o engajamento
 <img width="1057" height="942" alt="Visualize geral" src="https://github.com/user-attachments/assets/38c0fc7c-7527-48ff-ae9e-116333e111c1" />
 
 ---
-## Exercícios entregues X Vídeos vistos
+## Vídeos vistos X Exercícios entregues
 <img width="964" height="583" alt="exercicio entrgue X Video visto" src="https://github.com/user-attachments/assets/cd9ef4fc-a4f5-4292-bc13-6f3f8fefd870" />
 
 *Ao analisarmos esta relação podemos perceber que quanto mais exercícios o aluno entregou e mais vídeos ele assistiu mais engajado ele é; sendo que os entregaram poucos exercícios e viram poucos vídeos tiveram seu engajamento considerado como baixo; podemos notar também que os mesmos alunos que entregaram poucos exercícios também assistiram poucos vídeos, não tendo alunos que viram poucos vídeos que entregaram muitos exercícios e vice-versa.*
 
 ---
-## Tempo médio por sessão X Videos vistos
+## Videos vistos X Tempo médio por sessão
 <img width="965" height="604" alt="tempo sessão X videos vistps" src="https://github.com/user-attachments/assets/646aa48e-0378-4191-b7de-c976876a946f" />
 
 *Os alunos que ficaram mais tempo em uma sessão consequentemente viram mais vídeos, e os que ficaram pouco tempo viram poucos vídeos, o que nos mostra uma separação clara dos pontos coloridos, o que nos mostra que as classes são nem separadas e que seguem um padrão, assim como a relação de Exercícios entregues X Vídeos vistos.*
