@@ -1,9 +1,9 @@
-# TP2-IHC - Relatório de Análise de Engajamento em AVA
+# TP2-IHC - Relatório de Análise de Engajamento de Alunos
 
 ## Definição do problema
-O problema está inserido no contexto de um Ambiente Virtual de Aprendizagem (AVA), como o Moodle ou Canvas, aplicado à disciplina de Cálculo I no curso de Engenharia de Software. Essa disciplina apresenta historicamente altas taxas de reprovação e evasão, principalmente nas primeiras semanas do semestre, quando os alunos ainda estão em fase de adaptação. 
+O problema está inserido no contexto de um Ambiente Virtual de Aprendizagem, como o Moodle, classroom ou Canvas, aplicado à disciplina de Cálculo I Essa disciplina apresenta historicamente altas taxas de reprovação e evasão, principalmente nas primeiras semanas do semestre, quando os alunos ainda estão em fase de adaptação. 
 
-O objetivo é identificar o nível de engajamento de alunos em um Ambiente Virtual de Aprendizagem (AVA) com base em seus comportamentos na plataforma, visando intervenções pedagógicas precoces.
+O objetivo é identificar o nível de engajamento de alunos em um Ambiente Virtual de Aprendizagem com base em seus comportamentos na plataforma, visando intervenções pedagógicas precoces.
 
 ---
 ## Atributos utilizados na Base
@@ -14,7 +14,6 @@ O objetivo é identificar o nível de engajamento de alunos em um Ambiente Virtu
 - `respostas_em_posts`: número de respostas em posts
 - `media_tempo_sessao_min`: tempo médio por sessão (minutos)
 - `regularidade_acesso`: Regular ou Irregular
-- `nivel_engajamento`: alto, médio ou baixo
 
 ---
 ## Classe-alvo: 
@@ -22,15 +21,6 @@ O objetivo é identificar o nível de engajamento de alunos em um Ambiente Virtu
 
 ---
 ## Regras de Classificação
-As regras que definem o nível de engajamento foram estabelecidas com base em padrões de comportamento observados: 
-
-Alto: aluno que assiste aos vídeos, entrega exercícios e participa dos fóruns. 
-
-Regra para nivel_engajamento = Alto
-
-Os numeros são porcentagem % (exceto em post_iniciados e respostas)
-
-## Regras usadas para gerar a Classe-alvo 
 As regras que definem o nível de engajamento foram estabelecidas com base em padrões de comportamento observados: 
 
 Alto: aluno que assiste aos vídeos, entrega exercícios e participa dos fóruns.
@@ -45,7 +35,7 @@ os numeros são porcentagem % (exceto em post_iniciados e respostas)
 - E `(regularidade_acesso == 'Regular')`
 - Então `nivel_engajamento = Alto`
 
-Médio: aluno que participa apenas de uma dimensão — por exemplo, assiste vídeos e entrega atividades, mas não interage nos fóruns. 
+Médio: aluno que participa apenas de uma dimensão, por exemplo, assiste vídeos e entrega atividades, mas não interage nos fóruns. 
 
 Regra para nivel_engajamento = Medio 
 
@@ -159,3 +149,15 @@ Ao analisarmos a matriz de confusão do algoritmo ZeroR podemos notar que ele cl
 | IBK         | 71/71               | 100%     |
 
 Ao colocarmos os resultados em uma tabela, podemos perceber que o algoritmo ZeroR foi o que teve o pior desempenho em relação aos demais, já que sua acurácia foi de apenas 32,39, que comparado com os demais é o menos preciso; o OneR e J48 tiveram a mesma taxa de acurácia que foi de 97,18%, sendo ainda mais assertivo que o ZeroR; o NaiveBayes e o IBK tiveram também a mesma taxa de acurácia, sendo ela de 100%, sendo os mais assertivos em relação aos demais.
+
+---
+
+## Análise Crítica e Conclusão
+
+verificando se as regras que definimos para gerar os dados apareceriam na árvore de decisão J48. notamos uma diferença:
+
+* **Nossas Regras Definidas (originais):** Eram complexas. A regra para 'Alto' , por exemplo, exigia a combinação de 5 atributos diferentes (percentual_videos_vistos, percentual_exercicios_entregues, posts_iniciados_forum, media_tempo_sessao_min e regularidade_acesso)
+
+* **Regras Descobertas pelo J48:** O algoritmo J48, apesar de atingir uma acurácia excelente de 97,18%, encontrou um caminho muito mais simples. Ele ignorou 4 dos 6 atributos e baseou sua decisão primariamente no media_tempo_sessao_min e secundariamente no respostas_em_posts
+
+**Conclusão:** As regras que definimos não apareceram diretamente na árvore. O algoritmo J48 determinou que, para o nosso problema de identificar alunos em risco, uma heurística muito mais simples (focada apenas no tempo de sessão e nas respostas do fórum) era quase tão eficaz quanto nossas regras complexas originais. Isso sugere que, na prática, o media_tempo_sessao_min é o indicador mais forte e determinante do engajamento do aluno
