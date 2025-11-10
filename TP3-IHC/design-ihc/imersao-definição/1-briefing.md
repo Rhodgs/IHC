@@ -1,3 +1,11 @@
+# Introdução
+
+O tema escolhido para este projeto foi **Conscientização Ambiental**. O objetivo é desenvolver uma aplicação voltada para jovens e adolescentes que promova o aprendizado sobre práticas sustentáveis e a importância da conservação do meio ambiente.
+
+Este documento apresenta as etapas de imersão e definição do processo de Design de Interação Humano-Computador (IHC), incluindo briefing, análise de necessidades, estudo de soluções similares e definição de personas, com o objetivo de compreender a demanda real e propor uma solução adequada ao público-alvo.
+
+---
+
 ## Informações do Cliente/Entrevistado
 
 **Nome:** João Paulo
