@@ -1,5 +1,5 @@
 ## Matriz CSD (Certezas, Suposições e Dúvidas)
-Após o briefing, a nossa equipe se reuniu para organizar as informações em uma Matriz CSD
+Após o briefing, a nossa equipe se reuniu para organizar as informações em uma Matriz CSD...
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/bbedaa93-2db0-4715-8eef-cfac7da57a96" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c4213923-cd32-4032-8046-18791aa02eb9" />
