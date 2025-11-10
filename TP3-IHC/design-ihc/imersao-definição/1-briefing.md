@@ -91,7 +91,7 @@
 
 ## Evidência
 
-Foto da reunião de briefing:
+*Foto da reunião de briefing:*
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/62aeb934-935e-4106-837d-ef72b68f48de" />
 
 
