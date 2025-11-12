@@ -1,11 +1,13 @@
-# **Nome:** Ana Luiza 
-## **Idade:** 16 anos
-
-### Quem
-Ana Luiza tem 16 anos e é estudante do ensino médio. Ela se descreve como uma jovem conectada, que adora desafios e está sempre atenta às redes sociais. Competitiva e comunicativa, gosta de interagir e disputar com os amigos. Apesar disso, sente frustração quando o tema ambiental é apresentado em palestras, pois considera esse formato cansativo e pouco envolvente.
+![Nome_Ana_Luiza_20251111_131835_0000 1 -1_page-0001](https://github.com/user-attachments/assets/838c9c88-4b9c-4397-b4ea-eae8bf331b5d)
 
 ---
 
-### Contexto
-No dia a dia, Ana Luiza utilizaintensamente o Instagram e o TikTok para compartilhar momentos, acompanhartendências e interagir com seus amigos. Também usa aplicativos de jogos quepossuem rankings e recompensas, pois se
-identifica com experiências que envolvemcompetição e reconhecimento.
+![Nome_Ana_Luiza_20251111_131835_0000 1 -2_page-0001](https://github.com/user-attachments/assets/33a2b94b-d114-4680-a59f-b8ec6e32a9ed)
+
+---
+
+![Nome_Ana_Luiza_20251111_131835_0000 1 -3_page-0001](https://github.com/user-attachments/assets/5d0dd460-ac4e-43f8-9855-dba323db1c32)
+
+---
+
+![Nome_Ana_Luiza_20251111_131835_0000 1 -4_page-0001](https://github.com/user-attachments/assets/933cda67-321d-4cc6-a3bf-d5a79242ddc2)
