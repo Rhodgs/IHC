@@ -1,12 +1,26 @@
-# Introdução
+# INTRODUÇÃO
 
-O tema escolhido para este projeto foi **Conscientização Ambiental**. O objetivo é desenvolver uma aplicação voltada para jovens e adolescentes que promova o aprendizado sobre práticas sustentáveis e a importância da conservação do meio ambiente.
+
+O tema escolhido para este projeto foi **Conscientização Ambiental**. O objetivo é desenvolver uma aplicação voltada para jovens e adolescentes que promova o aprendizado sobre práticas sustentáveis e a importância da conservação do meio ambiente.
+
 
 Este documento apresenta as etapas de imersão e definição do processo de Design de Interação Humano-Computador (IHC), incluindo briefing, análise de necessidades, estudo de soluções similares e definição de personas, com o objetivo de compreender a demanda real e propor uma solução adequada ao público-alvo.
 
+
+--- 
+## BRIEFING
+
+A primeira etapa do processo de Imersão foi a realização de um briefing com um cliente/representante realista da demanda.
+
+### METODOLOGIA DO BRIEFING
+
+O contato inicial foi realizado via WhatsApp, facilitado pelo fato de o professor já ter sido professor dos membros entrevistadores da equipe. A reunião presencial ocorreu no dia 25 de Outubro na Sorveteria Miranda, por volta das 16h, e levou cerca de 40 minutos.
+
+Para garantir a fidelidade das informações coletadas e permitir uma análise posterior detalhada, a conversa foi gravada utilizando um dispositivo móvel, com o consentimento do entrevistado.
+
 ---
 
-## Informações do Cliente/Entrevistado
+## INFORMAÇÕES DO CLIENTE/ENTREVISTADO
 
 **Nome:** João Paulo
 
@@ -100,6 +114,10 @@ Este documento apresenta as etapas de imersão e definição do processo de Desi
 ## Evidência
 
 *Foto da reunião de briefing:*
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/62aeb934-935e-4106-837d-ef72b68f48de" />
+
+<p align="center">
+  <img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/62aeb934-935e-4106-837d-ef72b68f48de"/>
+</p>
+
 
 
