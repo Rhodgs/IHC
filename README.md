@@ -12,6 +12,7 @@ O objetivo deste projeto é realizar uma avaliação completa do sistema Canva (
 |22552289|Rhuan Lucas Cunha Rodrigues|A2|
 |22551474|Pâmela Asmin de Almeida da Silva|A3|
 |22554524|Luan Hideki Oda Nogueira|A4|
+|22552723|Thamires Mendes| |
 
 ## EX integrante
 
