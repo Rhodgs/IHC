@@ -1,7 +1,21 @@
-## Metamensagem do Sistema
-"Caro cidadão consciente e interessado em cuidar do meio ambiente, eu entendi que você deseja adotar hábitos mais sustentáveis e quer compreender melhor como suas ações podem contribuir para um planeta mais saudável. Percebo que, no seu dia a dia, você busca informações confiáveis e práticas que possam te ajudar a reduzir o desperdício, economizar recursos naturais e incentivar outras pessoas a fazerem o mesmo.
+# Metamensagem do Sistema
+"Olá, jovem consciente e interessado em construir um futuro mais verde! Eu entendi que você, como adolescente ou jovem estudante, deseja adotar hábitos mais sustentáveis e quer compreender como suas ações, dentro e fora de casa, podem contribuir para um planeta mais saudável. Percebo que, no seu dia a dia, você busca informações confiáveis e divertidas (gamificadas) que possam te ajudar a reduzir o desperdício, economizar recursos naturais e, principalmente, inspirar e conscientizar sua família e amigos a fazerem o mesmo. Pensando nisso, criamos o Sistema de Conscientização Ambiental, uma plataforma interativa, gamificada e acessível, que te permite aprender sobre sustentabilidade de forma simples e envolvente. Através dela, você pode acompanhar dicas ecológicas, participar de desafios ambientais empolgantes, registrar suas ações sustentáveis e visualizar o impacto positivo real que está gerando. Para utilizar o sistema, basta realizar seu cadastro, explorar as categorias, participar das campanhas, subir no ranking e acompanhar seu progresso em tempo real. Você poderá interagir com conteúdos educativos, receber notificações personalizadas e compartilhar suas conquistas nas redes sociais e com a comunidade. 
 
-Pensando nisso, criamos o Sistema de Conscientização Ambiental, uma plataforma interativa que te permite aprender sobre sustentabilidade de forma simples e envolvente. Através dela, você pode acompanhar dicas ecológicas, participar de desafios ambientais, registrar suas ações sustentáveis e visualizar o impacto positivo que está gerando. Para utilizar o sistema, basta realizar seu cadastro, explorar as categorias temáticas, participar 
-das campanhas disponíveis e acompanhar seu progresso em tempo real. Você poderá interagir com conteúdos educativos, receber notificações personalizadas e compartilhar suas conquistas com a comunidade. 
+Com isso, eu quero te mostrar que a sua geração é a força da mudança. Com o uso do sistema, você tem nas mãos uma ferramenta para transformar seus hábitos, inspirar sua família e amigos e contribuir ativamente para um futuro mais sustentável."
 
-Com isso, eu quero te mostrar que pequenas atitudes fazem grande diferença e que, com o uso do sistema, você tem nas mãos uma ferramenta para mudar seus hábitos, inspirar outras pessoas e contribuir para um futuro mais sustentável.”
+## **Legenda:**
+1. **Quem é o usuário:**
+
+Jovem consciente (adolescente/estudante), interessado em construir um futuro mais verde e que busca adotar hábitos sustentáveis, sendo a principal força de mudança do sistema.
+
+2. **O que quer/precisa fazer e formas que prefere:**
+
+Deseja compreender como suas ações contribuem para um planeta mais saudável e busca informações confiáveis, divertidas e gamificadas para reduzir o desperdício e economizar recursos. Quer inspirar e conscientizar sua família e amigos a fazerem o mesmo. 
+
+3. **Qual é a solução projetada:**
+
+O Sistema de Conscientização Ambiental, uma plataforma interativa, gamificada e acessível. Permite aprender sobre sustentabilidade de forma simples e envolvente, oferecendo dicas, desafios ambientais, registro de ações e visualização do impacto positivo. 
+
+4.  **Formas de utilizar a solução:**]
+
+Realizar o cadastro, explorar categorias, participar de campanhas e subir no ranking, acompanhando o progresso em tempo real. Interagir com conteúdos educativos, receber notificações personalizadas e compartilhar suas conquistas nas redes sociais para inspirar a comunidadeMapa de Objetivos dos Usuários 
