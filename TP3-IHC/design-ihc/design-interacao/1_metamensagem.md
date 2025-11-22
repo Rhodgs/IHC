@@ -16,6 +16,6 @@ Deseja compreender como suas ações contribuem para um planeta mais saudável e
 
 O Sistema de Conscientização Ambiental, uma plataforma interativa, gamificada e acessível. Permite aprender sobre sustentabilidade de forma simples e envolvente, oferecendo dicas, desafios ambientais, registro de ações e visualização do impacto positivo. 
 
-4.  **Formas de utilizar a solução:**]
+4.  **Formas de utilizar a solução:**
 
 Realizar o cadastro, explorar categorias, participar de campanhas e subir no ranking, acompanhando o progresso em tempo real. Interagir com conteúdos educativos, receber notificações personalizadas e compartilhar suas conquistas nas redes sociais para inspirar a comunidadeMapa de Objetivos dos Usuários 
