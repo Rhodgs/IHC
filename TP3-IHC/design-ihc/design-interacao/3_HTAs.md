@@ -1,9 +1,9 @@
 # HTAs — Hierarchical Task Analysis
-## 1. Acompanhar Impacto da Turma 
+## 1. Acessar o Sistema
 
-Este diagrama modela a tarefa do Professor de monitorar o engajamento e resultados ambientais da classe. A tarefa raiz ramifica-se em duas vias principais: a "Visualização de Ranking", focada em gamificação, onde o docente pode analisar a performance geral ou detalhar medalhas e XP de um aluno específico; e o "Acesso a Relatórios Ambientais", voltado a dados quantitativos. Nesta segunda via, o fluxo exige decisões de filtragem crítica, como a seleção da métrica (ex: CO2 reduzido) e do período de tempo. O objetivo final é fornecer feedback visual imediato via gráficos ou permitir a exportação de dados, apoiando tanto a gestão pedagógica quanto a motivação competitiva da turma.
+Essa funcionalidade permite que o usuário entre no aplicativo de forma segura, seja por meio do login ou pela criação de uma nova conta. Ao abrir o sistema, o usuário é recebido pela tela inicial, onde escolhe entre autenticar-se ou registrar-se. Ao selecionar Fazer Login, o usuário informa seu email e senha. Esse fluxo garante controle e segurança no acesso às informações pessoais. Se o usuário optar por Criar Conta, ele deve preencher dados básicos (nome, email e senha). Após a validação, a nova conta é criada e o usuário é redirecionado automaticamente para o menu principal. Independentemente do caminho escolhido, o fluxo se encerra no Menu Principal, onde o usuário pode navegar pelas principais funções do aplicativo, como desafios, perfil, progresso, conteúdos educativos e reportes ambientais. Esse processo inicial garante uma experiência personalizada e organizada dentro do sistema.
 
-![Imagem do WhatsApp de 2025-11-20 à(s) 15 40 37_4eda9caf](https://github.com/user-attachments/assets/b1c0f039-37f0-4b50-84dc-c7c84513672f)
+<img width="16384" height="3635" alt="Acessar o Sistema drawio" src="https://github.com/user-attachments/assets/092b4564-cc51-4c15-9229-eed93243ba43" />
 
 ---
 ## 2. Consumir Conteúdo Educativo  
@@ -56,8 +56,8 @@ Essa funcionalidade permite que o usuário mantenha suas informações atualizad
 <img width="16170" height="3920" alt="Ajustar configurações de Acessibilidadee drawio 8 drawio" src="https://github.com/user-attachments/assets/09716c3c-8000-4353-8ea4-cfb478aec92d" />
 
 ---
-## 9. Acessar o Sistema
+## 9. Acompanhar Impacto da Turma 
 
-Essa funcionalidade permite que o usuário entre no aplicativo de forma segura, seja por meio do login ou pela criação de uma nova conta. Ao abrir o sistema, o usuário é recebido pela tela inicial, onde escolhe entre autenticar-se ou registrar-se. Ao selecionar Fazer Login, o usuário informa seu email e senha. Esse fluxo garante controle e segurança no acesso às informações pessoais. Se o usuário optar por Criar Conta, ele deve preencher dados básicos (nome, email e senha). Após a validação, a nova conta é criada e o usuário é redirecionado automaticamente para o menu principal. Independentemente do caminho escolhido, o fluxo se encerra no Menu Principal, onde o usuário pode navegar pelas principais funções do aplicativo, como desafios, perfil, progresso, conteúdos educativos e reportes ambientais. Esse processo inicial garante uma experiência personalizada e organizada dentro do sistema.
+Este diagrama modela a tarefa do Professor de monitorar o engajamento e resultados ambientais da classe. A tarefa raiz ramifica-se em duas vias principais: a "Visualização de Ranking", focada em gamificação, onde o docente pode analisar a performance geral ou detalhar medalhas e XP de um aluno específico; e o "Acesso a Relatórios Ambientais", voltado a dados quantitativos. Nesta segunda via, o fluxo exige decisões de filtragem crítica, como a seleção da métrica (ex: CO2 reduzido) e do período de tempo. O objetivo final é fornecer feedback visual imediato via gráficos ou permitir a exportação de dados, apoiando tanto a gestão pedagógica quanto a motivação competitiva da turma.
 
-<img width="16384" height="3635" alt="Acessar o Sistema drawio" src="https://github.com/user-attachments/assets/092b4564-cc51-4c15-9229-eed93243ba43" />
+![Imagem do WhatsApp de 2025-11-20 à(s) 15 40 37_4eda9caf](https://github.com/user-attachments/assets/b1c0f039-37f0-4b50-84dc-c7c84513672f)
