@@ -10,7 +10,7 @@ Essa funcionalidade permite que o usuário entre no aplicativo de forma segura, 
 
 O HTA "Consumir Conteúdo Educativo" estrutura o acesso à informação sobre sustentabilidade, priorizando a flexibilidade de mídia e a inclusão. O fluxo divide-se na preferência do usuário entre "Ler dicas e notícias" ou "Assistir Vídeos". Na leitura, as ações envolvem navegação, seleção de manchetes e a opção de salvar favoritos. Na vertente de vídeo, o destaque é a sub-rotina de "Configurar Acessibilidade", que permite ativar legendas ou audiodescrição antes da visualização. Essa estrutura de tarefas garante que o sistema cumpra seu requisito de ser acessível a diferentes perfis de usuários (persona U e U-A), permitindo um aprendizado adaptado às necessidades individuais antes mesmo do consumo do conteúdo.
 
-![Imagem do WhatsApp de 2025-11-20 à(s) 15 40 38_39cc04a8](https://github.com/user-attachments/assets/555e3f5b-9f0e-4395-a9b9-e334b9b345bf)
+<img width="1600" height="843" alt="hta edu" src="https://github.com/user-attachments/assets/77199642-8316-4320-a74b-0ef2a8d6c96f" />
 
 ---
 ## 3. Localizar Pontos de Reciclagem
