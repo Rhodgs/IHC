@@ -1,6 +1,12 @@
 # Mapas de objetivo
 
+## Legenda de  Papéis (Peersonas)
+* **[U] Usuário:** Qualquer pessoa que utiliza o sistema (estudante, cidadãos, participantes).
+* **[P] Professor:** Responsável por gerencias turmas e acompanhar o impacto dos alunos.
+* **[U-A] Usuário com acessibilidade:** Usuário que utiliza recursos de acessibilidade já integrados ao sistema
 
+---
+  
 <p align="center">
   <img width="900" height="526" alt="image" src="https://github.com/user-attachments/assets/2ecf4c80-6ddb-478a-8d02-b491f6a8d20d" />
 </p>
