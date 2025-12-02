@@ -94,3 +94,36 @@ Para garantir a consistência e escalabilidade do projeto, utilizamos biblioteca
   - Fonte de inspiração para ilustrações vetoriais clean e modernas.
 
 ---
+
+## Identidade Visual: Nome e Logotipo
+
+### Nome: **Jornada Verde**
+
+O nome foi escolhido para refletir o propósito do aplicativo:
+- **Jornada:** Transmite a ideia de um processo contínuo, um caminho de aprendizado e evolução, gamificação e progresso.
+- **Verde:** Referência direta à natureza, sustentabilidade e ecologia.
+
+### Conceito Visual e Semântico: "Dê um Play na sua Jornada"
+
+O logotipo não é apenas um símbolo abstrato; ele é um convite à ação.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36cf6e78-2263-405e-a017-cc993c0e26c3" alt="Símbolo Play Verde" width="200" />
+</p>
+
+#### O Significado do "Play" Verde
+A escolha do símbolo de **Play** carrega um triplo significado que resume a essência do aplicativo:
+
+1.  **COMEÇAR (Start):** O ícone universal de início. Ao entrar no app, o usuário está literalmente dando o "start" em sua conscientização ambiental.
+2.  **JOGAR (Game):** "Play" em inglês também significa jogar. Isso reflete o núcleo gamificado do app: quizzes, desafios, rankings e conquistas.
+3.  **BRINCAR (Fun):** Aprender sobre meio ambiente não precisa ser chato. O símbolo promete uma experiência leve e divertida.
+
+#### A Conexão com o Nome
+O nome **Jornada Verde** sugere um caminho a ser percorrido. O símbolo completa essa frase visualmente:
+
+> **"Ao abrir o aplicativo, você está dando um PLAY na sua JORNADA VERDE."**
+
+É o momento de sair da inércia e começar a agir, assistir vídeos, cumprir desafios e transformar o mundo ao redor, tudo a partir de um simples clique.
+
+
+
