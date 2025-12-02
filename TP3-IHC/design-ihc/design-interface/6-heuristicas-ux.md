@@ -1,38 +1,114 @@
-# 6. Heurísticas de UX e Usabilidade
+# 6. Heurísticas de UX, Usabilidade, Comunicabilidade e Acessibilidade
 
-## Aplicação das Heurísticas de Nielsen no Jornada Verde
+## Resumo da Aplicação das Heurísticas de Nielsen
 
-No desenvolvimento da interface, aplicamos de forma natural e consistente diversas heurísticas de Jakob Nielsen para garantir uma experiência fluida e intuitiva.
+No Jornada Verde, as heurísticas de Nielsen foram aplicadas de forma natural e integrada:
 
-### Resumo da Aplicação
-
-> "No nosso sistema, a gente usou várias das heurísticas de Nielsen de um jeito bem natural. Por exemplo, quando colocamos as mesmas figuras e os mesmos ícones em todas as telas, estamos seguindo a heurística de **Consistência e Padrões (4)**. Isso faz com que os usuários reconheçam rapidamente cada função, porque tudo aparece sempre do mesmo jeito.
+> "Quando colocamos as mesmas figuras e ícones em todas as telas, estamos seguindo a **Consistência e Padrões (H4)**. O botão de "voltar" está sempre no mesmo lugar, o que conecta com **Liberdade do Usuário (H3)** — a pessoa consegue sair de qualquer página sem medo.
 >
-> O botão de “voltar” também entra nessa ideia, mas ele também se conecta com a heurística de **Controle e Liberdade do Usuário (3)**. Como ele está sempre no mesmo lugar e funciona igual em todas as partes do sistema, a pessoa consegue sair de qualquer página sem medo de errar ou ficar presa.
+> A barra de navegação fixa ajuda na **Eficiência de Uso (H7)**, permitindo acesso direto a qualquer seção sem voltar várias vezes. O título no topo aplica **Visibilidade do Estado (H1)**, e ícones conhecidos como casa e troféu usam **Compatibilidade com o Mundo Real (H2)**.
 >
-> A barra de navegação presente em todas as telas ajuda na **Eficiência de Uso (7)**, porque permite que o usuário vá direto para onde quer sem precisar voltar várias páginas ou ficar procurando. Isso deixa a experiência mais rápida e prática.
->
-> Quando mostramos no topo da tela em qual página o usuário está, estamos aplicando a heurística de **Visibilidade do Status do Sistema (1)**. Assim, a pessoa sempre sabe onde está navegando e não fica perdida.
->
-> O uso de ícones simples e comuns no dia a dia tem tudo a ver com a heurística de **Compatibilidade com o Mundo Real (2)**. Como são símbolos conhecidos, as pessoas entendem suas funções sem precisar de explicação.
->
-> E o nosso design simples, direto e fácil de mexer se encaixa na heurística de **Design Estético e Minimalista (8)**. A ideia foi deixar tudo limpo e sem excesso de informações, ajudando principalmente quem não tem muita prática com tecnologia a usar o sistema sem confusão.
->
-> Com tudo isso, nosso sistema fica mais intuitivo, fácil e agradável de usar, seguindo várias das heurísticas de Nielsen."
+> O design simples e sem poluição segue **Design Minimalista (H8)**. Confirmações antes de deletar, validação de formulários e mensagens claras em português implementam **Prevenção de Erros (H5)** e **Recuperação (H10)**."
 
 ---
 
-## Detalhamento Visual das Heurísticas
+## Detalhamento das 4 Dimensões de Qualidade
 
-[Aqui embaixo você pode colocar prints das telas mostrando exemplos visuais do que ela descreveu acima]
+### 1. USABILIDADE
+**Objetivo:** O app funciona e o usuário completa tarefas sem confusão.
 
-### 1. Visibilidade do Status do Sistema
-- **Onde:** Títulos no topo da tela, indicador de página ativa na navbar.
-- **Exemplo:** [Print da tela mostrando o título "Desafios"]
+**Implementações:**
+- Barra de navegação = qualquer seção em 1 clique
+- Ícones + labels sempre juntos
+- Formulários com campos estruturados (dropdowns em vez de texto livre)
+- Confirmação antes de deletar turma/dados
+- Validação em tempo real de email, senha
 
-### 2. Compatibilidade com o Mundo Real
-- **Onde:** Ícone de casa para "Início", troféu para "Conquistas".
-- **Exemplo:** [Print da barra de navegação]
+**Métrica de Sucesso:** 90%+ usuários completam cadastro sem erro
 
-[... e assim por diante para as outras heurísticas citadas]
+---
 
+### 2. EXPERIÊNCIA DO USUÁRIO (UX)
+**Objetivo:** O usuário gosta de usar e quer voltar.
+
+**Implementações:**
+- **Gamificação:** Ranking, medalhas, XP em cada ação
+- **Progresso visível:** Dashboard com "15.5 kg reciclado" + "1.250 XP"
+- **Variedade:** 3 tipos de desafio (ação, quiz, gamificado)
+- **Feedback imediato:** Toast notifications, animações de sucesso
+- **Comunidade:** Turma + ranking criam senso de pertencimento
+
+**Exemplo:** Ao completar quiz, confete anima + "🎉 +150 XP! Você subiu de posição!"
+
+**Métrica de Sucesso:** 60%+ retenção em 7 dias, 4+ estrelas na app store
+
+---
+
+### 3. COMUNICABILIDADE
+**Objetivo:** Interface comunica sua intenção de forma clara, sem ambiguidade.
+
+**Signos Visuais Aplicados:**
+
+| Elemento | O que Comunica |
+|----------|----------------|
+| 🏠 Ícone de casa | "Voltar ao início / Home" |
+| 📖 Ícone de livro | "Aprender / Conteúdo educativo" |
+| 🏆 Troféu + ranking | "Seu progresso importa, você está competindo" |
+| 🟢 Verde primário | "Ação principal, clique aqui para fazer algo" |
+| ⚠️ Triângulo amarelo | "Atenção! Algo importante / Problema" |
+| ▶️ Play / Seta | "Comece sua jornada, avance, próximo" |
+| ❤️ Coração | "Favoritar / Gostar" |
+
+**Métrica de Sucesso:** Novo usuário entende 80%+ das funcionalidades sem ler tutorial
+
+---
+
+### 4. ACESSIBILIDADE
+**Objetivo:** Qualquer pessoa consegue usar, independente de capacidade ou experiência.
+
+**Implementações:**
+
+**Visual:**
+- Alto contraste 4.5:1 (WCAG AA) entre texto e fundo
+- Texto legível mínimo 16px
+- Sem dependência exclusiva de cor (ícones + texto)
+
+**Motora:**
+- Touch targets 44x44px (fácil de clicar com dedo)
+- Navegação por teclado funcional
+- Dois métodos de localização: GPS ou digitar endereço manualmente
+
+**Auditiva:**
+- Legendas em todos os videos
+- Audiodescrição disponível (botão "AD")
+
+**Cognitiva:**
+- Linguagem simples, sem jargão técnico
+- Design minimalista, sem poluição
+- Ícones com labels (não apenas símbolo isolado)
+- Mensagens de erro claras: "Sem pontos próximos. Tente ampliar busca."
+
+**Métrica de Sucesso:** Passar em teste WCAG AA, 0 feedback negativo de usuários com deficiência
+
+---
+
+## As 10 Heurísticas de Nielsen - Resumo Aplicado
+
+| # | Heurística | Aplicação no Jornada Verde |
+|---|-----------|---------------------------|
+| **1** | Visibilidade do Estado | Ranking visível, metas diárias em destaque |
+| **2** | Compatibilidade | Ícones conhecidos (casa, livro), linguagem comum |
+| **3** | Liberdade do Usuário | Botão "voltar" sempre disponível |
+| **4** | Consistência | Ícones, cores e layouts iguais em todas telas |
+| **5** | Prevenção de Erros | Confirmação antes de deletar, validação de campos |
+| **6** | Reconhecimento | Ícones + labels, cores significativas |
+| **7** | Eficiência | Barra de navegação = acesso direto |
+| **8** | Minimalismo | Design limpo, sem distrações desnecessárias |
+| **9** | Ajuda | Central de Ajuda, "Esqueci senha", "?" contextual |
+| **10** | Recuperação de Erros | Mensagens claras em português com sugestões |
+
+---
+
+## Conclusão
+
+O **Jornada Verde** foi projetado para ser simultaneamente **acessível, comunicativo, eficiente e emocional**. Cada detalhe—desde a cor verde até o ícone de play—comunica intenção ambiental e reforça o engajamento, tudo isso sem sacrificar inclusão ou qualidade técnica.
