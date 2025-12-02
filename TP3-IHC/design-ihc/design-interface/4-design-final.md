@@ -388,21 +388,10 @@ A barra aparece em **todas as telas** (exceto login/cadastro) com 4 ícones prin
 | **H9** | Ajuda e Documentação | "Central de Ajuda", "Esqueci a senha", "?" em áreas complexas |
 | **H10** | Relatório de Erros | Mensagens claras em português, Sugestão de ação, Sem jargão técnico |
 
----
-
-## 6. Link do Protótipo Interativo
-
-🔗 **Acesse o protótipo completo aqui:** [Link do Figma ou ferramenta de prototipagem]
-
-**Recursos disponíveis no protótipo:**
-- ✅ Navegação entre todas as 41+ telas
-- ✅ Interações (cliques, formulários, animações)
-- ✅ Estados (loading, error, success)
-- ✅ Responsividade mobile
 
 ---
 
-## 7. Considerações de Usabilidade
+## 6. Considerações de Usabilidade
 
 ### Acessibilidade
 
@@ -420,6 +409,6 @@ A barra aparece em **todas as telas** (exceto login/cadastro) com 4 ícones prin
 
 ---
 
-## 8. Conclusão
+## 7. Conclusão
 
 O design final do **Jornada Verde** equilibra **usabilidade, gamificação e comunicação visual**, aplicando as **10 Heurísticas de Nielsen** de forma integrada e natural. A interface é intuitiva, acessível e engajante para adolescentes, garantindo que a jornada de conscientização ambiental seja ao mesmo tempo educativa e divertida.
